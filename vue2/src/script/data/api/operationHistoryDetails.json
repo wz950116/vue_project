@@ -1,0 +1,60 @@
+{
+  "msg": "success",
+  "code": 0,
+  "data": {
+    "operationHistory": [
+      {
+        "afterVal": "afterVal",
+        "beforeVal": "beforeVal",
+        "operationId": 16,
+        "targetType": 6,
+        "attributeName": "system_msg",
+        "time": 1479395777000,
+        "operationActionType": 0,
+        "operatorId": 2014210787
+      },
+      {
+        "afterVal": "UNREAD",
+        "beforeVal": "UNSENT",
+        "operationId": 17,
+        "targetType": 1,
+        "attributeName": "message",
+        "time": 1479395777000,
+        "operationActionType": 1,
+        "operatorId": 2014210787
+      },
+      {
+        "afterVal": "他大舅大二舅都是他舅",
+        "beforeVal": "",
+        "operationId": 18,
+        "targetType": 2,
+        "attributeName": "system_msg",
+        "time": 1479395777000,
+        "operationActionType": 2,
+        "operatorId": 2014210787
+      },
+      {
+        "afterVal": "他大舅大二舅都是他舅",
+        "beforeVal": "",
+        "operationId": 18,
+        "targetType": 2,
+        "attributeName": "system_msg",
+        "time": 1479395777000,
+        "operationActionType": 3,
+        "operatorId": 2014210787
+      },
+      {
+        "afterVal": "他大舅大二舅都是他舅",
+        "beforeVal": "",
+        "operationId": 18,
+        "targetType": 2,
+        "attributeName": "system_msg",
+        "time": 1479395777000,
+        "operationActionType": 4,
+        "operatorId": 2014210787
+      }
+    ],
+    "totalNum": 5,
+    "pageIndex": 2
+  }
+}

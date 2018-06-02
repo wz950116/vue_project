@@ -1,0 +1,22 @@
+label {
+	width : 80px;
+	text-align: right;
+	padding: 5px;
+	display: inline-block;
+}
+#description {
+	display: inline-block;
+	vertical-align: text-top;
+	width:500px;
+}
+.inline-input{
+	display: inline-block;
+	vertical-align: text-top;
+	padding: 10px;
+}
+img {
+	position: relative;
+	left: 85px;
+	max-width: 80%;
+	padding: 10px;
+}

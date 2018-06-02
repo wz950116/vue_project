@@ -1,0 +1,6 @@
+{
+    "mdev-template": "vue-cli",
+    "public-path": "PUBLIC-PATH",
+    "debug": false,
+    "babel": true
+}

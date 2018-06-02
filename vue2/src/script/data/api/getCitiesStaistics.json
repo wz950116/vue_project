@@ -1,0 +1,33 @@
+{
+  "pageIndex": 2,
+  "pageCount": 2,
+  "itemCount": 12,
+  "dataArray": [
+    {
+      "reward": 500,
+      "sold_ads": 35,
+      "registered_users": 39,
+      "pre_pay": 10000,
+      "logged_in_users": 10,
+      "all_ads": 100,
+      "city": "北京",
+      "average_pv": 87145,
+      "average_uv": 247,
+      "sold_rate": 0.5
+    },
+    {
+      "reward": 500,
+      "sold_ads": 35,
+      "registered_users": 38,
+      "pre_pay": 10000,
+      "logged_in_users": 10,
+      "all_ads": 100,
+      "city": "上海",
+      "average_pv": 25469,
+      "average_uv": 733,
+      "sold_rate": 0.5
+    }
+  ],
+  "size": 2,
+  "errorCode": 0
+}

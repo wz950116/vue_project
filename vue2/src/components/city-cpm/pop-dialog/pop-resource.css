@@ -1,0 +1,21 @@
+label {
+	width : 80px;
+	text-align: left;
+	padding: 5px;
+	display: inline-block;
+}
+.inline-input{
+	display: inline-block;
+}
+.tableLeft {
+	text-align: left;
+}
+.tableRight {
+	text-align: right;
+}
+p {
+	padding: 5px 0;
+}
+table th{
+	width:150px;
+}

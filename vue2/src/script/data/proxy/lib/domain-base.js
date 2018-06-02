@@ -1,0 +1,1 @@
+module.exports = '//ad-manage.focus' +  window.env + '.cn/';

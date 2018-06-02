@@ -1,0 +1,128 @@
+{
+  "dataArray": [
+    {
+      "reward": 500,
+      "uv": 42743,
+      "sold_ads": 35,
+      "registered_users": -592247403,
+      "pre_pay": 9000,
+      "logged_in_users": 10,
+      "all_ads": 70,
+      "pv": 78126,
+      "time": "2016-02-03 00:00:10",
+      "sold_rate": 0.5
+    },
+    {
+      "reward": 900,
+      "uv": 7053,
+      "sold_ads": 35,
+      "registered_users": -585731387,
+      "pre_pay": 3500,
+      "logged_in_users": 10,
+      "all_ads": 70,
+      "pv": 70848,
+      "time": "2016-02-03 00:00:11",
+      "sold_rate": 0.5
+    },
+    {
+      "reward": 800,
+      "uv": 20649,
+      "sold_ads": 35,
+      "registered_users": 828395438,
+      "pre_pay": 6500,
+      "logged_in_users": 10,
+      "all_ads": 70,
+      "pv": 23266,
+      "time": "2016-02-03 00:00:12",
+      "sold_rate": 0.5
+    },
+    {
+      "reward": 500,
+      "uv": 14909,
+      "sold_ads": 35,
+      "registered_users": -707870499,
+      "pre_pay": 3500,
+      "logged_in_users": 10,
+      "all_ads": 70,
+      "pv": 98199,
+      "time": "2016-02-03 00:00:13",
+      "sold_rate": 0.5
+    },
+    {
+      "reward": 600,
+      "uv": 2588,
+      "sold_ads": 35,
+      "registered_users": -538632547,
+      "pre_pay": 500,
+      "logged_in_users": 10,
+      "all_ads": 70,
+      "pv": 44936,
+      "time": "2016-02-03 00:00:14",
+      "sold_rate": 0.5
+    },
+    {
+      "reward": 600,
+      "uv": 32634,
+      "sold_ads": 35,
+      "registered_users": 875388457,
+      "pre_pay": 6500,
+      "logged_in_users": 10,
+      "all_ads": 70,
+      "pv": 70488,
+      "time": "2016-02-03 00:00:15",
+      "sold_rate": 0.5
+    },
+    {
+      "reward": 700,
+      "uv": 44732,
+      "sold_ads": 35,
+      "registered_users": 24047238,
+      "pre_pay": 2500,
+      "logged_in_users": 10,
+      "all_ads": 70,
+      "pv": 23879,
+      "time": "2016-02-03 00:00:16",
+      "sold_rate": 0.5
+    },
+    {
+      "reward": 400,
+      "uv": 44797,
+      "sold_ads": 35,
+      "registered_users": -574471937,
+      "pre_pay": 0,
+      "logged_in_users": 10,
+      "all_ads": 70,
+      "pv": 92572,
+      "time": "2016-02-03 00:00:17",
+      "sold_rate": 0.5
+    },
+    {
+      "reward": 600,
+      "uv": 39378,
+      "sold_ads": 35,
+      "registered_users": 1172284918,
+      "pre_pay": 1500,
+      "logged_in_users": 10,
+      "all_ads": 70,
+      "pv": 32994,
+      "time": "2016-02-03 00:00:18",
+      "sold_rate": 0.5
+    },
+    {
+      "reward": 500,
+      "uv": 28273,
+      "sold_ads": 35,
+      "registered_users": 108639565,
+      "pre_pay": 8500,
+      "logged_in_users": 10,
+      "all_ads": 70,
+      "pv": 70977,
+      "time": "2016-02-03 00:00:19",
+      "sold_rate": 0.5
+    }
+  ],
+  "allSize": 30,
+  "pageIndex": 2,
+  "city": "北京",
+  "errorCode": 0
+}

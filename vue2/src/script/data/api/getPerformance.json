@@ -1,0 +1,61 @@
+{
+  "dataArray": [
+    {
+      "total_prepay": 0,
+      "this_month_prepay": 800.00,
+      "city": "上海",
+      "sales_code": "8DWI8L",
+      "employee_id": 345,
+      "name": "师太",
+      "binding_clients": 1
+    },
+    {
+      "total_prepay": 0,
+      "this_month_prepay": 1200.00,
+      "city": "上海",
+      "sales_code": "I4CI5I",
+      "employee_id": 3090,
+      "name": "佛教",
+      "binding_clients": 1
+    },
+    {
+      "total_prepay": 0,
+      "this_month_prepay": 0,
+      "city": "上海",
+      "sales_code": "RIMJK8",
+      "employee_id": 3020,
+      "name": "阿布拉",
+      "binding_clients": 0
+    },
+    {
+      "total_prepay": 0,
+      "this_month_prepay": 0,
+      "city": "北京",
+      "sales_code": "3WNS41",
+      "employee_id": 3199,
+      "name": "二珂",
+      "binding_clients": 0
+    },
+    {
+      "total_prepay": 0,
+      "this_month_prepay": 2800.00,
+      "city": "北京",
+      "sales_code": "RBVTAL",
+      "employee_id": 99949,
+      "name": "酒神",
+      "binding_clients": 3
+    },
+    {
+      "total_prepay": 0,
+      "this_month_prepay": 0,
+      "city": "北京",
+      "sales_code": "SX8G2D",
+      "employee_id": 88,
+      "name": "座山雕",
+      "binding_clients": 0
+    }
+  ],
+  "size": 6,
+  "pageIndex": 2,
+  "errorCode": 0
+}

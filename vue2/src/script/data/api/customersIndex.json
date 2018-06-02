@@ -1,0 +1,96 @@
+{
+  "customerStatus": [
+      {
+        "id": 0,
+        "name": "待审核"
+      },
+      {
+        "id": 1,
+        "name": "已通过审核"
+      },
+      {
+        "id": 2,
+        "name": "未通过审核"
+      },
+      {
+        "id": 3,
+        "name": "冻结"
+      }
+    ],
+  "provinceList": [
+    {
+      "areaCode": 110000,
+      "name": "北京市"
+    },
+    {
+      "areaCode": 120000,
+      "name": "天津市"
+    },
+    {
+      "areaCode": 130000,
+      "name": "河北省"
+    },
+    {
+      "areaCode": 140000,
+      "name": "山西省"
+    }
+  ],
+  "customerType": [
+      {
+        "id": 0,
+        "name": "直客"
+      },
+      {
+        "id": 1,
+        "name": "代理商"
+      },
+      {
+        "id": 2,
+        "name": "子客"
+      }
+    ],
+  "errorCode": 0,
+  "platform": {
+    "items": [
+      {
+        "id": 1,
+        "name": "PC"
+      },
+      {
+        "id": 2,
+        "name": "APP"
+      }
+    ],
+    "name": "platform"
+  },
+  "customerLevel": [
+      {
+        "id": 0,
+        "name": "青铜"
+      },
+      {
+        "id": 1,
+        "name": "白银"
+      },
+      {
+        "id": 2,
+        "name": "黄金"
+      },
+      {
+        "id": 3,
+        "name": "白金"
+      },
+      {
+        "id": 4,
+        "name": "钻石"
+      },
+      {
+        "id": 5,
+        "name": "大师"
+      },
+      {
+        "id": 6,
+        "name": "宗师"
+      }
+    ]
+}

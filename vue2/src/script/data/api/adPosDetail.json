@@ -1,0 +1,66 @@
+{
+  "data": {
+    "totalNum": 10,
+    "pageIndex": 2,
+    "adData": [
+      {
+        "price": 2,
+        "adStatus": "WAITORDER",
+        "adOrder": "N/A",
+        "click": 0,
+        "averageUV": 0,
+        "date": "01.01",
+        "averagePV": 0
+      },
+      {
+        "price": 5,
+        "adStatus": "WAITORDER",
+        "adOrder": "N/A",
+        "click": 0,
+        "averageUV": 0,
+        "date": "01.02",
+        "averagePV": 0
+      },
+      {
+        "price": 5,
+        "adStatus": "WAITORDER",
+        "adOrder": "N/A",
+        "click": 0,
+        "averageUV": 0,
+        "date": "01.03",
+        "averagePV": 0
+      },
+      {
+        "price": 5,
+        "adStatus": "WAITORDER",
+        "adOrder": "N/A",
+        "click": 0,
+        "averageUV": 0,
+        "date": "01.04",
+        "averagePV": 0
+      },
+      {
+        "price": 5,
+        "adStatus": "WAITORDER",
+        "adOrder": "N/A",
+        "click": 0,
+        "averageUV": 0,
+        "date": "01.05",
+        "averagePV": 0
+      },
+      {
+        "price": 5,
+        "adStatus": "WAITORDER",
+        "adOrder": "N/A",
+        "click": 0,
+        "averageUV": 0,
+        "date": "01.06",
+        "averagePV": 0
+      }
+    ],
+    "saleRate": "10.0%",
+    "adName": "首页广告第一屏通栏"
+  },
+  "code": 0,
+  "msg": "success"
+}

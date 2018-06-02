@@ -1,0 +1,18 @@
+{
+  "dataArray": [
+    {
+      "company" : "XXXXXX",
+      "taxpayer_code": "aldgienge",
+      "bank":"工商银行",
+      "account":"6222222222222",
+      "addr_phone": "diegnoa",
+      "taxpayerCertMd5":"aaaaaaaa",
+      "insert_time": "2016-12-01 01:01:01",
+      "audit_time": "2016-12-01 01:01:01",
+      "status": 1
+    }
+  ],
+  "size": 10,
+  "pageIndex": 1,
+  "errorCode": 0
+}

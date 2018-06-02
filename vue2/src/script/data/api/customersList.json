@@ -1,0 +1,40 @@
+{
+  "pageIndex": 2,
+  "errorCode": 0,
+  "pageSize": 12,
+  "customerList": [
+    {
+      "address": "北京市",
+      "level": "铜牌",
+      "city": "北京",
+      "mobile": "22222222222",
+      "type": "子客",
+      "prePayAddup": 0,
+      "province": "北京市",
+      "connector": "优尼尔",
+      "costThisMonth": 0,
+      "costAddup": 0,
+      "name": "中国联通",
+      "id": 10010,
+      "prePayThisMonth": 0,
+      "status": "未提交审核资料"
+    },
+    {
+      "address": "北京市海淀区",
+      "level": "铜牌",
+      "city": "北京",
+      "mobile": "11111111111",
+      "type": "子客",
+      "prePayAddup": 0,
+      "province": "北京市",
+      "connector": "莫拜尔",
+      "costThisMonth": 0,
+      "costAddup": 0,
+      "name": "中国移动",
+      "id": 10086,
+      "prePayThisMonth": 0,
+      "status": "未提交审核资料"
+    }
+  ],
+  "totalCount": 2
+}

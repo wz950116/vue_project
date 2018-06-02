@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "areaCode": 120100,
+      "cityName": "天津",
+      "date": "N/A"
+    },
+    {
+      "areaCode": 110100,
+      "cityName": "北京",
+      "date": "2016-11-09"
+    },
+    {
+      "areaCode": 130300,
+      "cityName": "秦皇岛",
+      "date": "N/A"
+    },
+    {
+      "areaCode": 140100,
+      "cityName": "太原",
+      "date": "N/A"
+    },
+    {
+      "areaCode": 130600,
+      "cityName": "保定",
+      "date": "2017-01-03"
+    }
+  ],
+  "code": 0,
+  "msg": "success"
+}

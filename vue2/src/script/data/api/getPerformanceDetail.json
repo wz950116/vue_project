@@ -1,0 +1,16 @@
+{
+  "dataArray": [
+    {
+      "total_prepay": 0,
+      "this_month_prepay": 800.00,
+      "this_month_consume": 0,
+      "city": "北京",
+      "demander_id": 1611000014,
+      "company": "百花乡",
+      "total_consume": 0
+    }
+  ],
+  "allSize": 5,
+  "pageIndex": 2,
+  "errorCode": 0
+}

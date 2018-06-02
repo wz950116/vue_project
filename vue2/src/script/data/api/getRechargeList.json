@@ -1,0 +1,24 @@
+{
+  "code": 200,
+  "msg": "success",
+  "data": {
+    "rechargeList": [
+      {
+        "actionId":"PRP2312312",
+        "userId":1,
+        "name":"邓杨宇",
+        "amount":1234,
+        "actionDate":"2017-01-08",
+        "operator":"邓杨宇"
+      },
+      {
+        "actionId":"PRP2312312",
+        "userId":2,
+        "name":"鱼总",
+        "amount":12345,
+        "actionDate":"2017-01-09",
+        "operator":"鱼尾巴"
+      }
+    ]
+  }
+}

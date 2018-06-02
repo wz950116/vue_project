@@ -1,0 +1,64 @@
+{
+  "data": {
+    "totalNum": 13,
+    "pageIndex": 2,
+    "adPosData": [
+      {
+        "saleRate": "0.0%",
+        "areaCode": 200001,
+        "click": 0,
+        "businessType": "CPD",
+        "material": "GIF;JPG",
+        "pageNum": "one",
+        "size": "210Pi*120Pi",
+        "resourceId": "100002200001",
+        "ideaType": "通栏",
+        "price": "1.00-17000.00",
+        "platformType": "焦点PC",
+        "firstColumn": "一级栏目1",
+        "secondColumn": "二级栏目1",
+        "averageUV": 0,
+        "adName": "首页广告第一屏通栏",
+        "averagePV": 0
+      },
+      {
+        "saleRate": "20.0%",
+        "areaCode": 200001,
+        "click": 0,
+        "businessType": "CPD",
+        "material": "GIF;JPG",
+        "pageNum": "one",
+        "size": "310Pi*130Pi",
+        "resourceId": "100003200001",
+        "ideaType": "通栏",
+        "price": "2.00-240.00",
+        "platformType": "焦点PC",
+        "firstColumn": "一级栏目2",
+        "secondColumn": "二级栏目2",
+        "averageUV": 0,
+        "adName": "首页广告第一屏通栏",
+        "averagePV": 0
+      },
+      {
+        "saleRate": "0.0%",
+        "areaCode": 200001,
+        "click": 0,
+        "businessType": "CPD",
+        "material": "GIF;JPG",
+        "pageNum": "one",
+        "size": "410Pi*140Pi",
+        "resourceId": "100004200001",
+        "ideaType": "通栏",
+        "price": "1.00-100.00",
+        "platformType": "焦点PC",
+        "firstColumn": "一级栏目2",
+        "secondColumn": "二级栏目3",
+        "averageUV": 0,
+        "adName": "首页广告第一屏通栏",
+        "averagePV": 0
+      }
+    ]
+  },
+  "code": 0,
+  "msg": "success"
+}

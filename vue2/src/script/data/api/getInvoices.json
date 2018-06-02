@@ -1,0 +1,21 @@
+{
+  "errorCode": 0,
+  "dataArray": [
+    {
+      "invoice": "abcdefg",
+      "demander": 133,
+      "company": "腾讯",
+      "contract_code": "111233",
+      "type": 0,
+      "item_name": "广告费",
+      "title": "XXXXXX",
+      "amount": 100.00,
+      "supplier_name": "北京焦点互动信息服务有限公司",
+      "insert_time": "2016-12-01 01:01:01",
+      "audit_time": "2016-12-02 01:01:01",
+      "status": 1
+    }
+  ],
+  "size": 5,
+  "pageIndex": 1
+}

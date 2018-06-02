@@ -1,0 +1,13 @@
+{
+  "errorCode": 0,
+  "cityList": [
+    {
+      "areaCode": 110100,
+      "name": "北京"
+    },
+    {
+      "areaCode": 120100,
+      "name": "天津"
+    }
+  ]
+}

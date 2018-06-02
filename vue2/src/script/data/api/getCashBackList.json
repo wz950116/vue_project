@@ -1,0 +1,66 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": [
+    {
+      "cashbackId": 34,
+      "minRecharge": 70000,
+      "cashback": 30000,
+      "receiveAmount": 100000,
+      "discount": 0.83,
+      "createTime": 1488783497000,
+      "updateTime": 1488783497000,
+      "disable": 0
+    },
+    {
+      "cashbackId": 35,
+      "minRecharge": 60000,
+      "cashback": 20000,
+      "receiveAmount": 80000,
+      "discount": 0.83,
+      "createTime": 1488783497000,
+      "updateTime": 1488783497000,
+      "disable": 0
+    },
+    {
+      "cashbackId": 36,
+      "minRecharge": 70000,
+      "cashback": 30000,
+      "receiveAmount": 100000,
+      "discount": 0.83,
+      "createTime": 1488783694000,
+      "updateTime": 1488783694000,
+      "disable": 0
+    },
+    {
+      "cashbackId": 37,
+      "minRecharge": 60000,
+      "cashback": 20000,
+      "receiveAmount": 80000,
+      "discount": 0.83,
+      "createTime": 1488783694000,
+      "updateTime": 1488783694000,
+      "disable": 0
+    },
+    {
+      "cashbackId": 38,
+      "minRecharge": 70000,
+      "cashback": 30000,
+      "receiveAmount": 100000,
+      "discount": 0.83,
+      "createTime": 1488783926000,
+      "updateTime": 1488783926000,
+      "disable": 0
+    },
+    {
+      "cashbackId": 39,
+      "minRecharge": 60000,
+      "cashback": 20000,
+      "receiveAmount": 80000,
+      "discount": 0.83,
+      "createTime": 1488783926000,
+      "updateTime": 1488783926000,
+      "disable": 0
+    }
+  ]
+}

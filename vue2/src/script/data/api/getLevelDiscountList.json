@@ -1,0 +1,22 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": [
+    {
+      "level": 2,
+      "discount": 0.83,
+      "levelDiscountId": 15,
+      "levelName": "金牌",
+      "updateStd": 30000,
+      "bjStd": 100000
+    },
+    {
+      "level": 5,
+      "discount": 0.83,
+      "levelDiscountId": 16,
+      "levelName": "未知等级",
+      "updateStd": 30000,
+      "bjStd": 100000
+    }
+  ]
+}

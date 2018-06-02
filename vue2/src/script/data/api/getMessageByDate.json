@@ -1,0 +1,67 @@
+{
+  "msg": "success",
+  "code": 0,
+  "data": {
+    "totalNum": 39,
+    "messageHistory": [
+      {
+        "date": "2016-11-18",
+        "msgType": "system_msg",
+        "msgContent": "为王的坐椅子脊背朝后",
+        "receiver": [
+          1611000012,
+          1611000013
+        ],
+        "sendType": "单独发送",
+        "operatorName": "洪七公",
+        "operatorId": 2014210787
+      },
+      {
+        "date": "2016-11-18",
+        "msgType": "system_msg",
+        "msgContent": "为王的坐椅子脊背朝后",
+        "receiver": [
+          1611000012,
+          1611000013
+        ],
+        "sendType": "单独发送",
+        "operatorName": "洪七公",
+        "operatorId": 2014210787
+      },
+      {
+        "date": "2016-11-18",
+        "msgType": "system_msg",
+        "msgContent": "没料想把肚皮挺在前头",
+        "receiver": [
+          100000
+        ],
+        "sendType": "批量发送",
+        "operatorName": "洪七公",
+        "operatorId": 2014210787
+      },
+      {
+        "date": "2016-11-18",
+        "msgType": "system_msg",
+        "msgContent": "为王的坐椅子脊背朝后",
+        "receiver": [
+          1611000012,
+          1611000013
+        ],
+        "sendType": "单独发送",
+        "operatorName": "洪七公",
+        "operatorId": 2014210787
+      },
+      {
+        "date": "2016-11-18",
+        "msgType": "system_msg",
+        "msgContent": "没料想把肚皮挺在前头",
+        "receiver": [
+          100000
+        ],
+        "sendType": "批量发送",
+        "operatorName": "洪七公",
+        "operatorId": 2014210787
+      }
+    ]
+  }
+}

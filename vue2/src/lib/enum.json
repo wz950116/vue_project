@@ -1,0 +1,648 @@
+{
+  "saleStatus" : [
+    {
+      "key" : 0,
+      "value" : "待售"
+    },
+    {
+      "key" : 1,
+      "value" : "在售"
+    },
+    {
+      "key" : 2,
+      "value" : "售罄"
+    }
+    ],
+  "salePhase" : [
+    {
+      "key" : 1,
+      "value" : "期房"
+    },
+    {
+      "key" : 2,
+      "value" : "现房"
+    },
+    {
+      "key" : 3,
+      "value" : "尾房"
+    }],
+  "priceType" : [
+    {
+      "key" : 0,
+      "value" : "待定"
+    },
+    {
+      "key" : 1,
+      "value" : "单价"
+    },
+    {
+      "key" : 2,
+      "value" : "总价"
+    }
+    ],
+  "priceUnitType" : [
+    {
+      "key" : 1,
+      "value" : "元/平方米"
+    },
+    {
+      "key" : 2,
+      "value" : "万元/套"
+    }
+  ],
+  "constructTypes" : [
+    {
+      "key" : 1,
+      "value" : "板楼"
+    },
+    {
+      "key" : 2,
+      "value" : "塔楼"
+    },
+    {
+      "key" : 3,
+      "value" : "板塔结合"
+    },
+    {
+      "key" : 4,
+      "value" : "底层"
+    },
+    {
+      "key" : 5,
+      "value" : "多层"
+    },
+    {
+      "key" : 6,
+      "value" : "小高层"
+    },
+    {
+      "key" : 7,
+      "value" : "超高层"
+    }
+  ],
+  "projFeatures" : [
+    {
+      "key" : 1,
+      "value" : "旅游地产"
+    },
+    {
+      "key" : 2,
+      "value" : "公园地产"
+    },
+    {
+      "key" : 3,
+      "value" : "创意地产"
+    },
+    {
+      "key" : 4,
+      "value" : "科技住宅"
+    },
+    {
+      "key" : 5,
+      "value" : "投资地产"
+    },
+    {
+      "key" : 6,
+      "value" : "旅游地产"
+    },
+    {
+      "key" : 7,
+      "value" : "中式地产"
+    },
+    {
+      "key" : 8,
+      "value" : "宜居生态地产"
+    },
+    {
+      "key" : 9,
+      "value" : "养老地产"
+    },{
+      "key" : 10,
+      "value" : "海景地产"
+    },
+    {
+      "key" : 11,
+      "value" : "江景地产"
+    },
+    {
+      "key" : 12,
+      "value" : "山景地产"
+    },
+    {
+      "key" : 13,
+      "value" : "湖景地产"
+    },
+    {
+      "key" : 14,
+      "value" : "河景地产"
+    },
+    {
+      "key" : 15,
+      "value" : "岛屿地产"
+    },
+    {
+      "key" : 16,
+      "value" : "复合地产"
+    },
+    {
+      "key" : 17,
+      "value" : "产权式酒店"
+    },
+    {
+      "key" : 18,
+      "value" : "股权式酒店"
+    },
+    {
+      "key" : 19,
+      "value" : "庭院式住宅"
+    },
+    {
+      "key" : 20,
+      "value" : "教育地产"
+    },
+    {
+      "key" : 21,
+      "value" : "小户型"
+    },
+    {
+      "key" : 22,
+      "value" : "低总价"
+    },
+    {
+      "key" : 23,
+      "value" : "大平层"
+    },
+    {
+      "key" : 24,
+      "value" : "名企盘"
+    },
+    {
+      "key" : 25,
+      "value" : "五证齐全"
+    }
+  ],
+  "projDecorations" : [
+    {
+      "key" : 1,
+      "value" : "毛坯"
+    },
+    {
+      "key" : 2,
+      "value" : "简装修"
+    },
+    {
+      "key" : 3,
+      "value" : "精装修"
+    }
+  ],
+  "propertyManagementFeeUnit" : [
+    {
+      "key" : 0,
+      "value" : "元/平方米.月"
+    },
+    {
+      "key" : 1,
+      "value" : "元/套.月"
+    },
+    {
+      "key" : 2,
+      "value" : "元/户.年"
+    }
+  ],
+  "photoType" : [
+    {
+      "key" : 0,
+      "value" : "效果图"
+    },
+    {
+      "key" : 1,
+      "value" : "实景图"
+    },
+    {
+      "key" : 2,
+      "value" : "样板间"
+    },
+    {
+      "key" : 3,
+      "value" : "楼层平面图"
+    },
+    {
+      "key" : 4,
+      "value" : "交通图"
+    },
+    {
+      "key" : 5,
+      "value" : "周边配套图"
+    },
+    {
+      "key" : 6,
+      "value" : "施工进度图"
+    }
+  ],
+  "layoutOrientation":[
+    {
+      "key" : 1,
+      "value" : "东"
+    },
+    {
+      "key" : 2,
+      "value" : "南"
+    },
+    {
+      "key" : 3,
+      "value" : "西"
+    },
+    {
+      "key" : 4,
+      "value" : "北"
+    },
+    {
+      "key" : 5,
+      "value" : "东南"
+    },
+    {
+      "key" : 6,
+      "value" : "西南"
+    },
+    {
+      "key" : 7,
+      "value" : "东北"
+    },
+    {
+      "key" : 8,
+      "value" : "西北"
+    },
+    {
+      "key" : 9,
+      "value" : "东西"
+    },
+    {
+      "key" : 10,
+      "value" : "南北"
+    }
+  ],
+  "layoutFeature" : [
+    {
+      "key" : 1,
+      "value" : "南北通透"
+    },
+    {
+      "key" : 2,
+      "value" : "户型方正"
+    },
+    {
+      "key" : 3,
+      "value" : "全明格局"
+    },
+    {
+      "key" : 4,
+      "value" : "客厅朝南"
+    },
+    {
+      "key" : 5,
+      "value" : "主卧朝南"
+    },
+    {
+      "key" : 6,
+      "value" : "餐客分离"
+    },
+    {
+      "key" : 7,
+      "value" : "开放厨房"
+    },
+    {
+      "key" : 8,
+      "value" : "带衣帽间"
+    },
+    {
+      "key" : 9,
+      "value" : "主卧带卫"
+    },
+    {
+      "key" : 10,
+      "value" : "干湿分离"
+    },
+    {
+      "key" : 11,
+      "value" : "卧室带阳台"
+    },
+    {
+      "key" : 12,
+      "value" : "飘窗"
+    },
+    {
+      "key" : 13,
+      "value" : "观景飘窗"
+    },
+    {
+      "key" : 14,
+      "value" : "观景落地窗"
+    },
+    {
+      "key" : 15,
+      "value" : "厨卫不对门"
+    },
+    {
+      "key" : 16,
+      "value" : "双阳台"
+    },
+    {
+      "key" : 17,
+      "value" : "露台"
+    }
+  ],
+  "displayMonth" : [
+    {
+      "key" : 0,
+      "value" : "全年"
+    },
+    {
+      "key" : 1,
+      "value" : "1"
+    },
+    {
+      "key" : 2,
+      "value" : "2"
+    },
+    {
+      "key" : 3,
+      "value" : "3"
+    },
+    {
+      "key" : 4,
+      "value" : "4"
+    },
+    {
+      "key" : 5,
+      "value" : "5"
+    },
+    {
+      "key" : 6,
+      "value" : "6"
+    },
+    {
+      "key" : 7,
+      "value" : "7"
+    },
+    {
+      "key" : 8,
+      "value" : "8"
+    },
+    {
+      "key" : 9,
+      "value" : "9"
+    },
+    {
+      "key" : 10,
+      "value" : "10"
+    },
+    {
+      "key" : 11,
+      "value" : "11"
+    },
+    {
+      "key" : 12,
+      "value" : "12"
+    },
+    {
+      "key" : 13,
+      "value" : "上半年"
+    },
+    {
+      "key" : 14,
+      "value" : "下半年"
+    }
+  ],
+  "displayDay" : [
+    {
+      "key" : 1,
+      "value" : "1"
+    },
+    {
+      "key" : 2,
+      "value" : "2"
+    },
+    {
+      "key" : 3,
+      "value" : "3"
+    },
+    {
+      "key" : 4,
+      "value" : "4"
+    },
+    {
+      "key" : 5,
+      "value" : "5"
+    },
+    {
+      "key" : 6,
+      "value" : "6"
+    },
+    {
+      "key" : 7,
+      "value" : "7"
+    },
+    {
+      "key" : 8,
+      "value" : "8"
+    },
+    {
+      "key" : 9,
+      "value" : "9"
+    },
+    {
+      "key" : 10,
+      "value" : "10"
+    },
+    {
+      "key" : 11,
+      "value" : "11"
+    },
+    {
+      "key" : 12,
+      "value" : "12"
+    },
+    {
+      "key" : 13,
+      "value" : "13"
+    },
+    {
+      "key" : 14,
+      "value" : "14"
+    },
+    {
+      "key" : 15,
+      "value" : "15"
+    },
+    {
+      "key" : 16,
+      "value" : "16"
+    },
+    {
+      "key" : 17,
+      "value" : "17"
+    },
+    {
+      "key" : 18,
+      "value" : "18"
+    },
+    {
+      "key" : 19,
+      "value" : "19"
+    },
+    {
+      "key" : 20,
+      "value" : "20"
+    },
+    {
+      "key" : 21,
+      "value" : "21"
+    },
+    {
+      "key" : 22,
+      "value" : "22"
+    },
+    {
+      "key" : 23,
+      "value" : "23"
+    },
+    {
+      "key" : 24,
+      "value" : "24"
+    },
+    {
+      "key" : 25,
+      "value" : "25"
+    },
+    {
+      "key" : 26,
+      "value" : "26"
+    },
+    {
+      "key" : 27,
+      "value" : "27"
+    },
+    {
+      "key" : 28,
+      "value" : "28"
+    },
+    {
+      "key" : 29,
+      "value" : "29"
+    },
+    {
+      "key" : 30,
+      "value" : "30"
+    },
+    {
+      "key" : 31,
+      "value" : "31"
+    },
+    {
+      "key" : 41,
+      "value" : "上旬"
+    },
+    {
+      "key" : 42,
+      "value" : "中旬"
+    },
+    {
+      "key" : 43,
+      "value" : "下旬"
+    }
+  ],
+  "propertyTypes" : [
+    {
+      "key" : 0,
+      "value" : "普通住宅"
+    },
+    {
+      "key" : 1,
+      "value" : "花园洋房"
+    },
+    {
+      "key" : 2,
+      "value" : "经济适用房"
+    },
+    {
+      "key" : 3,
+      "value" : "公租房"
+    },
+    {
+      "key" : 4,
+      "value" : "限价房"
+    },
+    {
+      "key" : 5,
+      "value" : "自住型商品房"
+    },
+    {
+      "key" : 6,
+      "value" : "安居型商品房"
+    },
+    {
+      "key" : 7,
+      "value" : "别墅"
+    },
+    {
+      "key" : 8,
+      "value" : "公寓"
+    },
+    {
+      "key" : 9,
+      "value" : "商住楼"
+    },
+    {
+      "key" : 10,
+      "value" : "酒店式公寓"
+    }
+  ],
+  "source" : [
+    {
+      "key" : 0,
+      "value" : "爬虫"
+    },
+    {
+      "key" : 1,
+      "value" : "开发商"
+    },
+    {
+      "key" : 2,
+      "value" : "个人线索"
+    }
+  ],
+  "jobStatus" : [
+    {
+      "key" : 0,
+      "value" : "新增"
+    },
+    {
+      "key" : 1,
+      "value" : "修改"
+    }
+  ],
+  "dataStatus" : [
+    {
+      "key" : 0,
+      "value" : "待审核"
+    },
+    {
+      "key" : 1,
+      "value" : "审核通过"
+    },
+    {
+      "key" : 2,
+      "value" : "审核驳回"
+    }
+  ],
+  "projStatus" : [
+    {
+      "key" : 0,
+      "value" : "隐藏"
+    },
+    {
+      "key" : 1,
+      "value" : "显示"
+    }
+  ]
+}

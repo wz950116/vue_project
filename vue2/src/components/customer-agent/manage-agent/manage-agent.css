@@ -1,0 +1,20 @@
+.margin-top-20 {
+    margin-top: 20px;
+}
+
+.dialog-label {
+    display: inline-block;
+    width: 80px;
+    text-align: right;
+    margin-right: 20px;
+}
+
+.dialog-input {
+    margin-bottom: 0;
+    display: inline-block;
+}
+
+.pagination {
+    margin-top: 20px;
+    text-align: right;
+}

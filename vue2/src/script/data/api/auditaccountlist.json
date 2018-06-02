@@ -1,0 +1,40 @@
+{
+  "msg": "success",
+  "code": 0,
+  "data": {
+    "count": 13,
+    "pageIndex": 1,
+    "items": [
+      {
+        "demander_name": "搜狐新媒体2",
+        "audit_time": "2016-11-18 08:21:14",
+        "demander_type": 0,
+        "submit_time": "2016-11-18 14:13:36",
+        "demander_id": 1611000019,
+        "industry": "房地产",
+        "audit_status": 2,
+        "business_license": "http://t.focus-img.cn/ads/qua/c61848a2e30bbadb598a153b9cf23e9d.jpg"
+      },
+      {
+        "demander_name": "搜狐新媒体1",
+        "audit_time": "",
+        "demander_type": 1,
+        "submit_time": "2016-11-18 10:25:45",
+        "demander_id": 1611000018,
+        "industry": "广告代理",
+        "audit_status": 1,
+        "business_license": "http://t.focus-img.cn/ads/qua/c61848a2e30bbadb598a153b9cf23e9d.jpg"
+      },
+      {
+        "demander_name": "搜狐新媒体",
+        "audit_time": "",
+        "demander_type": 2,
+        "submit_time": "2016-11-18 10:11:29",
+        "demander_id": 1611000017,
+        "industry": "房地产",
+        "audit_status": 1,
+        "business_license": "http://t.focus-img.cn/ads/qua/c61848a2e30bbadb598a153b9cf23e9d.jpg"
+      }
+    ]
+  }
+}

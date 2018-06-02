@@ -1,0 +1,1 @@
+export const show = state => state.a.show

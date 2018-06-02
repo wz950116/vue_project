@@ -1,0 +1,36 @@
+{
+  "msg": "success",
+  "code": 0,
+  "data": {
+    "count": 2,
+    "pageIndex": 1,
+    "items": [
+      {
+        "demander_name": "搜狐新媒体2",
+        "audit_time": "",
+        "submit_time": "2016-11-19 17:17:48",
+        "developer_name": "龙湖",
+        "sales_certificate": "http://t.focus-img.cn/ads/qua/c61848a2e30bbadb598a153b9cf23e9d.jpg",
+        "demander_id": 1611000019,
+        "estate_name": "华清胶原",
+        "company": "搜狐新媒体2",
+        "audit_status": 1,
+        "business_license": "http://t.focus-img.cn/ads/qua/c61848a2e30bbadb598a153b9cf23e9d.jpg",
+        "estate_id": 3
+      },
+      {
+        "demander_name": "搜狐新媒体",
+        "audit_time": "",
+        "submit_time": "2016-11-19 17:15:52",
+        "developer_name": "开发商",
+        "sales_certificate": "http://t.focus-img.cn/ads/qua/c61848a2e30bbadb598a153b9cf23e9d.jpg",
+        "demander_id": 1611000017,
+        "estate_name": "户型名称",
+        "company": "搜狐新媒体",
+        "audit_status": 0,
+        "business_license": "http://t.focus-img.cn/ads/qua/c61848a2e30bbadb598a153b9cf23e9d.jpg",
+        "estate_id": 1
+      }
+    ]
+  }
+}
