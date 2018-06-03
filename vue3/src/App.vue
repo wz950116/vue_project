@@ -38,6 +38,17 @@
             leftSlider
         },
         beforeMount () {
+            this.$axios({
+                url: '/api/addresslist',
+                method: 'get',
+                baseURL: 'http://127.0.0.1:3000',
+                params: {},
+                withCredentials: true,
+            }).then(res => {
+                console.log(res.data, 333);
+            })
+
+
             // 定时清除本地存储
             const toDay = new Date().getFullYear() + '-' + new Date().getMonth() + '-' + new Date().getDate();
             const lastDay = window.localStorage.getItem('clear_searchContent_time');

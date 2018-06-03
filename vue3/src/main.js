@@ -9,9 +9,33 @@ import App from './App'
 // vue-router
 import router from './router'
 
-// http
+// axios
+// import axios from './model/axios'
 import axios from 'axios'
-import VueAxios from 'vue-axios'
+Vue.prototype.$axios = axios;
+axios({
+	url: '/api/addresslist',
+	method: 'get',
+	baseURL: 'http://127.0.0.1:3000',
+	params: {},
+	withCredentials: true,
+}).then(res => {
+	console.log(res.data, 111);
+})
+
+// fetch
+let headers = new Headers({
+	'Access-Control-Allow-Origin': '*',
+	'Content-Type': 'text/plain; application/json; charset=utf8'
+})
+let result = fetch('http://127.0.0.1:3000/api/addresslist', {
+	headers
+})
+result.then(res => {
+	return res.json();
+}).then(data => {
+	console.log(data, 222);
+})
 
 // vuex
 import store from './store'
@@ -19,8 +43,6 @@ import store from './store'
 import ElementUI from 'element-ui'
 import 'element-ui/lib/theme-chalk/index.css'
 Vue.use(ElementUI);
-
-Vue.use(VueAxios, axios)
 
 Vue.config.productionTip = false  // 生产提示
 

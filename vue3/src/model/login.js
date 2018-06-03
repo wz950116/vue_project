@@ -26,13 +26,13 @@ cookies.split(';').forEach(function (item) {
 });
 
 if (!userCookie) {
-    location.href = platformUrl;
+    // location.href = platformUrl;
 } else {
     $$user.setCookie(userCookie);
     // 数据加载
     $$user.getUserInfo(function (data) {
         if (data.code == 401) {
-            location.href = platformUrl;
+            // location.href = platformUrl;
             return;
         } else if (data.code == 403) {
             alert('没有权限!');
